@@ -1,7 +1,7 @@
 Tutorial 0 - Hello, world!
 ==========================
 
-In this tutorial, you'll take a really simple "Hello, world!" program written in
+In this tutorial, we'll take a really simple "Hello, world!" program written in
 Python, convert it into a classfile, and run it on the Java Virtual Machine.
 
 Setup
