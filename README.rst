@@ -57,7 +57,7 @@ Tutorial
 To take VOC for a spin, run through the `Getting Started guide`_, then start
 with `the first tutorial`_.
 
-If you'd like to contribute to VOC development, we have a `guide for first time contributors`_.
+If you would like to contribute to VOC development, we have a `guide for first time contributors`_.
 
 .. _Getting Started guide: https://voc.readthedocs.io/en/latest/index.html
 .. _the first tutorial: https://voc.readthedocs.io/en/latest/tutorial/tutorial-0.html
